@@ -4,5 +4,5 @@
 ### adolescent 
 ![Image of adolescent cat](images/adolescent_cat.jpg)
 ### adult
-![Image of adult cat](images/adult_cat.jpg)
+![Image of adult cat](images/adultcatJPEG.jpg)
 ### senior
